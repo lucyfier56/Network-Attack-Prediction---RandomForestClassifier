@@ -2,7 +2,7 @@
  This project predicts normal or attack based on input features using a RandomForestClassifier model. Users input features via a text box in the web interface, receiving predictions labeled "Normal" or "Attack". Gradio library facilitates user interaction. Error handling ensures smooth operation.
 
 ## Features
-# Data Preprocessing
+### Data Preprocessing
 - **Feature Selection**: A comprehensive approach is employed to select the most relevant features for training the model. This involves correlation analysis and standard deviation to identify and remove least correlated and least informative features.
 - **Dimensionality Reduction**: Principal Component Analysis (PCA) is utilized to reduce the dimensionality of the feature space while retaining essential information, thereby enhancing model efficiency and performance.
 
