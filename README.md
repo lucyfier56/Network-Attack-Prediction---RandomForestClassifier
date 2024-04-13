@@ -29,6 +29,9 @@
 ## Contributing
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
 
+## Screen Snippet
+![image](https://github.com/rupinajay/Network-Attack-Prediction---RandomForestClassifier/assets/116371359/ed90d082-375b-4911-a25d-5920f50582e0)
+
 ## License
 This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
 
