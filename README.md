@@ -17,6 +17,10 @@
 - **Gradio Integration**: The notebook seamlessly integrates with Gradio, a user-friendly library for creating interactive interfaces. This integration facilitates effortless input of features and immediate visualization of predictions.
 - **Interactive Experience**: Users can input features via a text box, interact with the model in real-time, and receive instant predictions labeled as "Normal" or "Attack", thereby enhancing user accessibility and engagement.
 
+## Dataset
+- **NSL KDD Dataset**: The project utilizes the NSL-KDD dataset for training and evaluation. This dataset is a refined version of the widely-used KDD Cup 1999 dataset, specifically designed for intrusion detection research.
+
+## Installation
 ## Usage
 1. **Open Notebook**: Launch the notebook in a Jupyter environment.
 2. **Execute Cells**: Execute the cells sequentially to load data, preprocess it, train the model, and create the interactive interface.
