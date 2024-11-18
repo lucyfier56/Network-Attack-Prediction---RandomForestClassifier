@@ -41,3 +41,9 @@ This project is licensed under the [MIT License](LICENSE). See the LICENSE file 
 
 ## Acknowledgments
 Special thanks to the developers of Gradio and Scikit-learn for providing excellent libraries for creating interactive web interfaces and machine learning functionalities, respectively.
+
+## Team Members
+- [Rupin Ajay](https://github.com/lucyfier56)
+- [Sukrith P.V.S](https://github.com/sukrithpvs)
+- [Rudra Panda](https://github.com/lucyfier56)
+- [Sanjay P N](https://github.com/sanjayperam04)
